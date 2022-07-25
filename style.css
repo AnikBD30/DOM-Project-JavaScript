@@ -31,7 +31,7 @@ input[type='text']:disabled,
 	border-radius: 0.25rem;
 	box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-change-btn{
+.change-btn{
 	padding: 1rem 3rem;
 	outline: none;
 	background-color: #000;
@@ -42,7 +42,7 @@ change-btn{
 	letter-spacing: 1px;
 	cursor: pointer;
 }
-change-btn:hover{
+.change-btn:hover{
 	background-color: #fff;
 	color:#000; 
 	border: 1px solid #000;
